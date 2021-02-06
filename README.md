@@ -55,7 +55,10 @@ This section outlines how to build the *.cpp files present in the directories
    ```
 
 ## FAQs
-1. 
+1. Q: What style guide are you using?
+   - A: I am using the style guide given by Dr. Saverio Perugini located [here](http://perugini.cps.udayton.edu/teaching/courses/cps444/style.html)
+1. Q:
+   - A: 
 
 ## Errors Encountered
 1. G++ is not a command or cmdlet recognized
